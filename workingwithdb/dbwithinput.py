@@ -40,6 +40,4 @@ while(ch!='E'):
         conn.commit()
     else:
         ch='E'
-
-
 conn.close()
